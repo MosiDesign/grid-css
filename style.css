@@ -25,6 +25,7 @@ body {
     font-family: 'Edu NSW ACT Cursive', cursive;
 }
 
+
 .item {
     display: flex;
     flex-direction: column;
@@ -133,6 +134,7 @@ img {
 
 .item:nth-child(2) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 3 */
@@ -186,6 +188,7 @@ img {
 
 .item:nth-child(3) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 4 */
@@ -239,6 +242,7 @@ img {
 
 .item:nth-child(4) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 5 */
@@ -292,6 +296,7 @@ img {
 
 .item:nth-child(5) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 6 */
@@ -345,6 +350,7 @@ img {
 
 .item:nth-child(6) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 7 */
@@ -398,6 +404,7 @@ img {
 
 .item:nth-child(7) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
 
 /* box 8 */
@@ -451,4 +458,5 @@ img {
 
 .item:nth-child(8) .hrs span {
     font-size: 11px;
+    color: rgb(197 ,201, 247)
 }
