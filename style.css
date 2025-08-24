@@ -25,6 +25,30 @@ body {
     font-family: 'Edu NSW ACT Cursive', cursive;
 }
 
+.item:nth-child(2) .menu:hover {
+    background-color: #34397B;
+}
+
+.item:nth-child(3) .menu:hover {
+    background-color: #34397B;
+}
+
+.item:nth-child(4) .menu:hover {
+    background-color: #34397B;
+}
+
+.item:nth-child(5) .menu:hover {
+    background-color: #34397B;
+}
+
+.item:nth-child(6) .menu:hover {
+    background-color: #34397B;
+}
+
+.item:nth-child(7) .menu:hover {
+    background-color: #34397B;
+}
+
 
 .item {
     display: flex;
@@ -35,6 +59,7 @@ body {
     padding: 12px;
     cursor: pointer;
 }
+
 
 img {
     width: 48px;
@@ -66,7 +91,6 @@ img {
     font-size: 11px;
     color: rgb(115 , 119 , 183);
     column-gap: 5px;
-    cursor: pointer;
     padding-left: 15px;
 }
 
@@ -81,6 +105,10 @@ img {
 
 .item-profile:nth-child(1) .name span {
     line-height: 1.5;
+}
+
+.item-profile:nth-child(1) .property span {
+    cursor: pointer;
 }
 
 /* box 2 */
